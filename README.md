@@ -22,7 +22,7 @@ the Zetacoin client sofware, see https://bitcointalk.org/index.php?topic=267545.
 Note
 -------
 
-This is a personal fork of zetacoin(Dec 23 2013) that work on OSX Mavericks with brew. Use at your own risk.
+This is a personal fork of zetacoin(Dec 23 2013) that works on OSX Mavericks with brew. Use at your own risk.
 
 License
 -------

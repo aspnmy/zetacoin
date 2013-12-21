@@ -1,4 +1,4 @@
-Zetacoin integration/staging tree
+Zetacoin integration/staging tree (OSX Maverick Fork)
 =================================
 
 http://www.zeta-coin.org
@@ -18,6 +18,11 @@ software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
 the Zetacoin client sofware, see https://bitcointalk.org/index.php?topic=267545.0
+
+Note
+-------
+
+This is a personal fork of zetacoin(Dec 23 2013) that work on OSX Maverick with brew. Use at your own risk.
 
 License
 -------

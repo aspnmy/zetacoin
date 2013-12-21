@@ -13,18 +13,18 @@
 	<key>CFBundleVersion</key>
 	<string>$VERSION</string>
 	<key>CFBundleSignature</key>
-	<string>ZETA</string>
+	<string>????</string>
 	<key>CFBundleExecutable</key>
 	<string>Zetacoin-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.bitcoinfoundation.Bitcoin-Qt</string>
+	<string>org.zeta-coin.ZetaCoin-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>org.bitcoinfoundation.BitcoinPayment</string>
+            <string>org.zeta-coing.ZetacoinPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
               <string>zetacoin</string>
